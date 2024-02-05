@@ -1,0 +1,14 @@
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\FizzBuzz\bin\Debug\net8.0\FizzBuzz.exe
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\FizzBuzz\bin\Debug\net8.0\FizzBuzz.deps.json
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\FizzBuzz\bin\Debug\net8.0\FizzBuzz.runtimeconfig.json
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\FizzBuzz\bin\Debug\net8.0\FizzBuzz.dll
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\FizzBuzz\bin\Debug\net8.0\FizzBuzz.pdb
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\FizzBuzz\obj\Debug\net8.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfoInputs.cache
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfo.cs
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\FizzBuzz\obj\Debug\net8.0\FizzBuzz.csproj.CoreCompileInputs.cache
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\FizzBuzz\obj\Debug\net8.0\FizzBuzz.dll
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\FizzBuzz\obj\Debug\net8.0\refint\FizzBuzz.dll
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\FizzBuzz\obj\Debug\net8.0\FizzBuzz.genruntimeconfig.cache
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll
